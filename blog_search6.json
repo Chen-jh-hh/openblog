@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://github.com/adityatelange/hugo-PaperMod/actions",
+    "name": "adityatelange/hugo-PaperMod - Workflow runs - GitHub",
+    "snippet": "A fast, clean, responsive Hugo theme. Contribute to adityatelange/hugo-PaperMod development by creating an account on GitHub. Missing: auto | Show results with: auto",
+    "host_name": "github.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://discourse.gohugo.io/t/how-do-i-host-my-hugo-site-on-github-with-papermod-theme/54920",
+    "name": "How do I host my hugo site on github with papermod theme? - support",
+    "snippet": "in your frost4graves repository you deploy your commited public stuff (which is already a full static HTML site) using a Jekyll build workflow. Deploy example site with GitHub Actions & Pages - support - HUGO Help hosting Hugo with GitHub pages - support More results from discourse.gohugo.io Missing: auto yaml example",
+    "host_name": "discourse.gohugo.io",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://medium.com/%40magstherdev/github-pages-hugo-86ae6bcbadd",
+    "name": "How to Create and Host a Website with Hugo and GitHub Pages",
+    "snippet": "Create a new Hugo project by cloning your GitHub repository. Choose a theme from the Hugo themes library or create your own. Customize the theme ...",
+    "host_name": "medium.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/PranavArya37/hugo-papermod-config",
+    "name": "How to Configure PaperMod with hugo.yaml - GitHub",
+    "snippet": "This guide thoroughly examines a hugo.yaml configuration file designed for the elegant and versatile PaperMod theme. We'll break down every setting with ... Missing: 2025 | Show results with: 2025",
+    "host_name": "github.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://reverse.put.as/2021/03/11/hugo-githubactions",
+    "name": "How to use GitHub Actions and private repositories to deploy a",
+    "snippet": "Hugo generates the static pages into the public folder, and then we just need to commit the changes in the submodule and let git do the dirty ...",
+    "host_name": "reverse.put.as",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  }
+]
