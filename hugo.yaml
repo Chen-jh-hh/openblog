@@ -1,4 +1,4 @@
-baseURL: https://<你的用户名>.github.io/
+baseURL: https://chen-jh-hh.github.io/openblog/
 languageCode: zh-cn
 defaultContentLanguage: zh
 title: 无名的博客
@@ -24,7 +24,7 @@ params:
 
   socialIcons:
     - name: github
-      url: "https://github.com/<你的用户名>"
+      url: "https://github.com/Chen-jh-hh"
     - name: rss
       url: "/index.xml"
 
